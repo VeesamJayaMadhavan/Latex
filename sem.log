@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.8.24)  29 AUG 2024 04:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2024.8.24)  29 AUG 2024 09:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -138,9 +138,6 @@ LaTeX Warning: Label `fig:image1' multiply defined.
 
 LaTeX Warning: Label `fig:image1' multiply defined.
 
-
-LaTeX Warning: Label `fig:image1' multiply defined.
-
 )
 \openout1 = `sem.aux'.
 
@@ -205,7 +202,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: image 1.jpg Graphic file (type jpg)
 <use image 1.jpg>
 Package pdftex.def Info: image 1.jpg  used on input line 25.
-(pdftex.def)             Requested size: 276.00105pt x 192.96172pt.
+(pdftex.def)             Requested size: 345.0pt x 241.20876pt.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./image 1.jpg>]
@@ -213,20 +210,20 @@ Package pdftex.def Info: image 1.jpg  used on input line 25.
 File: image 2.jpg Graphic file (type jpg)
 <use image 2.jpg>
 Package pdftex.def Info: image 2.jpg  used on input line 54.
-(pdftex.def)             Requested size: 276.00105pt x 112.1654pt.
+(pdftex.def)             Requested size: 345.0pt x 140.20987pt.
  [2 <./image 2.jpg>] [3]
 [4]
-<image 3.jpg, id=26, 849.1725pt x 549.05125pt>
+<image 3.jpg, id=25, 849.1725pt x 549.05125pt>
 File: image 3.jpg Graphic file (type jpg)
 <use image 3.jpg>
-Package pdftex.def Info: image 3.jpg  used on input line 154.
-(pdftex.def)             Requested size: 276.00105pt x 178.4563pt.
+Package pdftex.def Info: image 3.jpg  used on input line 153.
+(pdftex.def)             Requested size: 345.0pt x 223.06827pt.
  [5 <./image 3.jpg>]
-<image 4.jpg, id=30, 910.40125pt x 556.0775pt>
+<image 4.jpg, id=29, 910.40125pt x 556.0775pt>
 File: image 4.jpg Graphic file (type jpg)
 <use image 4.jpg>
-Package pdftex.def Info: image 4.jpg  used on input line 166.
-(pdftex.def)             Requested size: 276.00105pt x 168.58093pt.
+Package pdftex.def Info: image 4.jpg  used on input line 167.
+(pdftex.def)             Requested size: 345.0pt x 210.72617pt.
  [6 <./image 4.jpg>] [7] (./sem.aux)
 
 LaTeX Warning: There were multiply-defined labels.
@@ -235,24 +232,23 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  2194 strings out of 476091
  34008 string characters out of 5794081
- 1859330 words of memory out of 5000000
+ 1860330 words of memory out of 5000000
  22582 multiletter control sequences out of 15000+600000
  514294 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,7n,62p,220b,313s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/symbols/msam10.pfb>
-Output written on sem.pdf (7 pages, 470442 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/symbols/msam10.pfb>
+Output written on sem.pdf (7 pages, 463361 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 72 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
